@@ -45,9 +45,9 @@ Contents
 
 .. toctree::
 
-   project
-   development_phases
-   tokenomics
-   game
-   lore
-   FAQ
+   project.rst
+   development_phases.rst
+   tokenomics.rst
+   game.rst
+   lore.rst
+   FAQ.rst
