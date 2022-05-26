@@ -11,31 +11,31 @@ ___________
 
 
 Game
- Colony sim
- goal is to mine $Crystal
- everything can be built with $Crystal
- fee for upkeeping buildings
+ - Colony sim
+ - goal is to mine $Crystal
+ - everything can be built with $Crystal
+ - fee for upkeeping buildings
 
 Token $Crystal
- ingame, keine DEX
- nicht gebackt
- für items
+ - ingame, keine DEX
+ - nicht gebackt
+ - für items
 
 
 Items
- improve game experience
- can be traded on marketplace
+ - improve game experience
+ - can be traded on marketplace
 
 Sources of Revenue
- founders pass
- marketplace fees
- mint price
- NFT Treasury
+ - founders pass
+ - marketplace fees
+ - mint price
+ - NFT Treasury
 
 
 Treasury usage
- backend development
- frontend development
- marketing
- upkeep of services
- Team payment via shares
+ - backend development
+ - frontend development
+ - marketing
+ - upkeep of services
+ - Team payment via shares
