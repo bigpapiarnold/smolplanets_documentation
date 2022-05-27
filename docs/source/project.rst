@@ -39,3 +39,7 @@ Treasury usage
  - marketing
  - upkeep of services
  - Team payment via shares
+
+Phases
+ -plain locking phase after mint until game is finished
+  - for crystal
