@@ -15,19 +15,20 @@ The development os structured in phases that describe pre and post mint developm
 Development Phases
 ******************
 
-Development of SmolPlanets is structured in Phases to increase effiency and and value of the project.
-Additionally it is split up into departments that work mostly for themself.
 
-.. sidebar:: Sidebar Title
-   :subtitle: Optional Subtitle
 
-   This is a sidebar.  It is for text outside the flow of the main
-   text.
+.. sidebar:: Phases
+   :subtitle: Description
 
-   .. rubric:: This is a rubric inside a sidebar
+   Development of SmolPlanets is structured in Phases to i
+   ncrease effiency and and value of the project.
+   Additionally it is split up into departments that work
+   mostly for themself.
 
-   Sidebars often appears beside the main text with a border and
-   background color.
+   .. rubric:: Note
+
+   Phases are subject to change;
+   Date of release will be posted on discord and twitter.
 
 Phase 0.5
 =========
