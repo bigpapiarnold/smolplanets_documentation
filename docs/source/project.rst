@@ -4,64 +4,70 @@ Project
 SmolPlanets is an ambitious project thats led by competent and well known Crypto-fanatics.
 The development os structured in phases that describe pre and post mint development.
 
-Pevelopment Phases
+
+
+
+
+
+
+
+
+Development Phases
 ******************
 
 Development of SmolPlanets is structured in Phases to increase effiency and and value of the project.
-Additionatly it is split up into departments that work mostly for themselfs.
+Additionally it is split up into departments that work mostly for themself.
 
+.. sidebar:: Sidebar Title
+   :subtitle: Optional Subtitle
 
+   This is a sidebar.  It is for text outside the flow of the main
+   text.
+
+   .. rubric:: This is a rubric inside a sidebar
+
+   Sidebars often appears beside the main text with a border and
+   background color.
 
 Phase 0.5
 =========
-| design
-| design
-
-
-
-
-
 
 
 Phase 1
 =========
 
 Minting Phase
-=========
+=============
+
 
 Phase 3
-=========
+=======
+
 
 Phase 4
-=========
+=======
+
 
 Phase 5
-=========
+=======
+
+
+Roadmap
+*******
 
 
 
 
-What is <part of subject> ?
-============================
 
-When you need to break down a subject, you can break it down into subsections (H3s)
+Genisis Pass
+************
 
-Do this
-**********
 
-A task typically follows conceptual information. Task titles should be imperative. Tasks should have a short introduction sentence that captures the user's goal and introduces the steps, for example, "Verify your products are in the catalog:"
 
-A task should have 3 - 7 steps.  Tasks with more should be broken down into digestible chunks.
 
-Intro sentence.
 
-#. Step 1.
 
-#. Step 2.
 
-#. Step 3.
-
-Following the steps, you should add the result and any follow-up tasks needed.
 
 
 
