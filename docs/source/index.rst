@@ -1,6 +1,5 @@
 SmolPlanets Documentation
-=========================
-
+#########################
 
 .. note::
 
@@ -8,12 +7,38 @@ SmolPlanets Documentation
 
 
 
+Introduction
+************
+SmolPlanets is a play-to-earn colony simulator, built by physics students,
+crypto nerds and astronomy enthusiasts. The Art combined with lore and the game create an
+immersive experience for all holders. Additionally constant development ensures the
+value of the project and a great community.
+A Token, built on a strong DeFi Protocoll acts as an ingame currency and a way to
+convert your hard earned **$Crystal**  that increase earning and can be traded on
+a decentrelized marketplaces.
+
+
+
+Motivation behind SmolPlanets
+*****************************
+We (the founders) are physics students and astronomy enthusiasts.
+The project shares our experience of exploring strange new worlds and meeting new civilisations,
+as the first space dedicated Arbitrum project.
+Through complex interoperability with other project, it will create a place on Arbitrum,
+ where the smols can meet and paly together.
+
+A well structured and dedicated Team; for the good of all
+*********************************************************
+ss
+
+
+
+
+
 1. What are you aiming to do?
 _____________________________
 
-We (the founders) are both physics students and astronomy enthusiasts.
-We will bring this planet & space experience to Arbi & the smols by launching
-a free genesis collection of 4444 planets.
+
 We’re building an interactive  galaxy map with different star systems where each
 planet can be located. After mint we’ll launch staking where every holder can
 build/farm on their planet to terraform in order to get additional traits that
@@ -46,7 +71,6 @@ Contents
 .. toctree::
 
    project.rst
-   development_phases.rst
    tokenomics.rst
    game.rst
    lore.rst
