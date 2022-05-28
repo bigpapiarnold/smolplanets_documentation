@@ -4,12 +4,7 @@ Project
 SmolPlanets is an ambitious project thats led by competent and well known Crypto-fanatics.
 The development os structured in phases that describe pre and post mint development.
 
-
-
-
-
-
-
+.. contents:: Table of Contents
 
 
 Development Phases
@@ -18,7 +13,8 @@ Development Phases
 
 
 .. sidebar:: Phases
-   :subtitle: Description
+
+   .. rubric:: Description
 
    Development of SmolPlanets is structured in Phases to i
    ncrease effiency and and value of the project.
