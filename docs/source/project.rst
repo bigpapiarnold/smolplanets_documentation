@@ -16,10 +16,10 @@ Development Phases
 
    .. rubric:: Description
 
-   Development of SmolPlanets is structured in Phases to i
-   ncrease effiency and and value of the project.
+   Development of SmolPlanets is structured in Phases to
+   increase effiency and and value of the project.
    Additionally it is split up into departments that work
-   mostly for themself.
+   mostly independent.
 
    .. rubric:: Note
 
