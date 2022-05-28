@@ -28,8 +28,9 @@ Through complex interoperability with other project, it will create a place on A
 
 A well structured and dedicated Team; for the good of all
 *********************************************************
-ss
-
+The SmolPlanets development team is a divers and competent team that has experience
+in putting great things into practice.
+With the core team mostly stationed in central europe 
 
 
 
