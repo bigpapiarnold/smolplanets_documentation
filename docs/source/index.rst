@@ -24,8 +24,7 @@ Motivation behind SmolPlanets
 We (the founders) are physics students and astronomy enthusiasts.
 The project shares our experience of exploring strange new worlds and meeting new civilisations,
 as the first space dedicated Arbitrum project.
-Through complex interoperability with other project, it will create a place on Arbitrum,
- where the smols can meet and paly together.
+Through complex interoperability with other project, it will create a place on Arbitrum, where the smols can meet and paly together.
 
 A well structured and dedicated Team; for the good of all
 *********************************************************
