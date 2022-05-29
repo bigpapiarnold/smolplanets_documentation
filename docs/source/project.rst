@@ -26,19 +26,16 @@ Development Phases
    Phases are subject to change;
    Date of release will be posted on discord and twitter.
 
-Pre Mint Phase 0.5
-------------------
+Pre Mint Phase 0.5 ✓
+====================
+
 Pre Mint Phase 0.5 includes
-
-.. hlist::
-    :columns: 2
-
-    - building a competent team
-    - setting a basic working structure
-    - Building concepts for Art and Post Mint game
-    - Community Discord, Events
-    - Establishing Twitter, posting scheduele
-    - Website concept
+  - building a competent team
+  - setting a basic working structure
+  - Building concepts for Art and Post Mint game
+  - Community Discord, Events
+  - Establishing Twitter, posting scheduele
+  - Website concept
 
 
 Pre Mint Phase 1
