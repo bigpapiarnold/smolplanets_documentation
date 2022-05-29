@@ -43,7 +43,8 @@ Contents
 ********
 
 .. toctree::
-
+   :maxdepth: 2
+   
    index.rst
    project.rst
    tokenomics.rst
