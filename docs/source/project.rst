@@ -27,7 +27,7 @@ Development Phases
    Date of release will be posted on discord and twitter.
 
 Pre Mint Phase 0.5
-==================
+------------------
 Pre Mint Phase 0.5 includes
 
 .. hlist::
