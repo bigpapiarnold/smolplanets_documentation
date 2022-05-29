@@ -27,8 +27,9 @@ Development Phases
    Date of release will be posted on discord and twitter.
 
 Pre Mint Phase 0.5
-=========
-Pre Minta Phase 0.5 includes
+==================
+Pre Mint Phase 0.5 includes
+
 .. hlist::
     :columns: 2
 
@@ -41,14 +42,14 @@ Pre Minta Phase 0.5 includes
 
 
 Pre Mint Phase 1
-=========
+================
 
 Minting Phase
 =============
 
 
 Post Mint Phase 3
-=======
+=================
 
 
 Post Mint Phase 4
