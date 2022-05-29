@@ -28,7 +28,16 @@ Development Phases
 
 Pre Mint Phase 0.5
 =========
+Pre Minta Phase 0.5 includes
+.. hlist::
+    :columns: 2
 
+    - building a competent team
+    - setting a basic working structure
+    - Building concepts for Art and Post Mint game
+    - Community Discord, Events
+    - Establishing Twitter, posting scheduele
+    - Website concept
 
 
 Pre Mint Phase 1
