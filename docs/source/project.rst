@@ -45,9 +45,10 @@ Pre Mint Phase 1 includes:
   - Finalizing NFT Design
   - Building docs
   - Start of game development
-  - building liquidity via Founders Pass 
+  - building liquidity via Founders Pass
   - Treasury Deligation
-  - Preparing Mint, smart contract, staking feature
+  - Preparing Mint, smart contract
+  - staking feature
 
 Minting Phase
 =============
