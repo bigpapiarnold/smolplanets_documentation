@@ -29,7 +29,7 @@ Development Phases
 Pre Mint Phase 0.5 ✓
 ====================
 
-Pre Mint Phase 0.5 includes
+Pre Mint Phase 0.5 includes:
   - building a competent team
   - setting a basic working structure
   - Building concepts for Art and Post Mint game
@@ -38,8 +38,16 @@ Pre Mint Phase 0.5 includes
   - Website concept
 
 
-Pre Mint Phase 1
+Pre Mint Phase 1 ✓
 ================
+
+Pre Mint Phase 1 includes:
+  - Finalizing NFT Design
+  - Building docs
+  - Start of game development
+  - building liquidity via Founders Pass 
+  - Treasury Deligation
+  - Preparing Mint, smart contract, staking feature
 
 Minting Phase
 =============
