@@ -49,3 +49,4 @@ Contents
    game.rst
    lore.rst
    FAQ.rst
+   HowToArbitrum.rst
