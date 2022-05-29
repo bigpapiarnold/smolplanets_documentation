@@ -28,7 +28,6 @@ Development Phases
 
 Pre Mint Phase 0.5 ✓
 ====================
-
 Pre Mint Phase 0.5 includes:
   - building a competent team
   - setting a basic working structure
@@ -40,7 +39,6 @@ Pre Mint Phase 0.5 includes:
 
 Pre Mint Phase 1 ✓
 ================
-
 Pre Mint Phase 1 includes:
   - Finalizing NFT Design
   - Building docs
@@ -51,9 +49,9 @@ Pre Mint Phase 1 includes:
   - staking feature
   - setting mint date
 
+
 Minting Phase
 =============
-
 Minting Phase includes:
  - collecting wallet adresses
  - putting stacking feature in action
@@ -61,16 +59,7 @@ Minting Phase includes:
  - setting public game date
 
 
-Post Mint Phase 3
-=================
 
-
-Post Mint Phase 4
-=================
-
-
-Post Mint Phase 5
-=================
 
 
 Roadmap

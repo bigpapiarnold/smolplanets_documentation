@@ -40,7 +40,7 @@ With the core team mostly stationed in central europe
 
 
 Contents
---------
+********
 
 .. toctree::
 
