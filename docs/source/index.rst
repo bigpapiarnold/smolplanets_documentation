@@ -1,5 +1,5 @@
-SmolPlanets Documentation
-#########################
+SmolPlanets Documentation Entry
+###############################
 
 .. note::
 
@@ -44,6 +44,7 @@ Contents
 
 .. toctree::
 
+   index.rst
    project.rst
    tokenomics.rst
    game.rst
