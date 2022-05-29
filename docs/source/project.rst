@@ -49,9 +49,16 @@ Pre Mint Phase 1 includes:
   - Treasury Deligation
   - Preparing Mint, smart contract
   - staking feature
+  - setting mint date
 
 Minting Phase
 =============
+
+Minting Phase includes:
+ - collecting wallet adresses
+ - putting stacking feature in action
+ - **MINTING**
+ - setting public game date
 
 
 Post Mint Phase 3
