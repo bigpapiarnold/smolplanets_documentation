@@ -53,6 +53,7 @@ Pre Mint Phase 1 includes:
 Minting Phase
 -------------
 Minting Phase includes:
+
 .. hlist::
    :columns: 2
 
@@ -66,6 +67,7 @@ Minting Phase includes:
 Game Phase 0.5
 --------------
 Game Phase 0.5 includes:
+
 .. hlist::
    :columns: 2
 
