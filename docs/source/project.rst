@@ -8,7 +8,7 @@ The development os structured in phases that describe pre and post mint developm
 
 
 Development Phases
-******************
+==================
 
 
 
