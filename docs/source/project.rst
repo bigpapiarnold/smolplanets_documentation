@@ -14,7 +14,7 @@ Development Phases
 
 .. sidebar:: Phases
 
-   .. rubric:: Description
+   .. rubric::
 
    Development of SmolPlanets is structured in Phases to
    increase effiency and and value of the project.
@@ -53,51 +53,40 @@ Pre Mint Phase 1 includes:
 Minting Phase
 -------------
 Minting Phase includes:
-
-.. hlist::
-   :columns: 2
-
-   - collecting wallet adresses
-   - putting stacking feature in action
-   - **MINTING**
-   - setting public game date
+ - collecting wallet adresses
+ - putting stacking feature in action
+ - **MINTING**
+ - setting public game date
 
 
 
 Game Phase 0.5
 --------------
 Game Phase 0.5 includes:
-
-.. hlist::
-   :columns: 2
-
-   - Stacking Phase of 2-3 Weeks for final game development
-   - Item Marketplace release
-   - $Crystal Items Exchange start
-   - Preparing game launch
+ - Stacking Phase of 2-3 Weeks for final game development
+ - Item Marketplace release
+ - $Crystal Items Exchange start
+ - Preparing game launch
 
 
 Game Phase 1
 ------------
 Game Phase 1 includes:
-.. hlist::
-   :columns: 2
-
-   - **Game launch**
-   - Full marketplace
-   - full token applications
-   - **Preparing launch of 1/1 Collection**
+ - **Game launch**
+ - Full marketplace
+ - full token applications
+ - **Preparing launch of 1/1 Collection**
 
 
 
 
 
 Roadmap
-*******
+=======
 
 
 
 
 
-Genisis Pass
-************
+Founders Pass
+=============
