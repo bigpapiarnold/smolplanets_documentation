@@ -27,7 +27,7 @@ Development Phases
    Date of release will be posted on discord and twitter.
 
 Pre Mint Phase 0.5 ✓
-====================
+--------------------
 Pre Mint Phase 0.5 includes:
   - building a competent team
   - setting a basic working structure
@@ -38,7 +38,7 @@ Pre Mint Phase 0.5 includes:
 
 
 Pre Mint Phase 1 ✓
-================
+------------------
 Pre Mint Phase 1 includes:
   - Finalizing NFT Design
   - Building docs
@@ -51,38 +51,40 @@ Pre Mint Phase 1 includes:
 
 
 Minting Phase
-=============
+-------------
 Minting Phase includes:
- - collecting wallet adresses
- - putting stacking feature in action
- - **MINTING**
- - setting public game date
+.. hlist::
+   :columns: 2
+
+   - collecting wallet adresses
+   - putting stacking feature in action
+   - **MINTING**
+   - setting public game date
+
 
 
 Game Phase 0.5
 --------------
 Game Phase 0.5 includes:
-
 .. hlist::
    :columns: 2
 
-   * Stacking Phase of 2-3 Weeks for final game development
-   * Item Marketplace release
-   * $Crystal Items Exchange start
-   * Preparing game launch
+   - Stacking Phase of 2-3 Weeks for final game development
+   - Item Marketplace release
+   - $Crystal Items Exchange start
+   - Preparing game launch
 
 
 Game Phase 1
 ------------
 Game Phase 1 includes:
-
 .. hlist::
    :columns: 2
 
-   * **Game launch**
-   * Full marketplace
-   * full token applications
-   * **Preparing launch of 1/1 Collection**
+   - **Game launch**
+   - Full marketplace
+   - full token applications
+   - **Preparing launch of 1/1 Collection**
 
 
 
