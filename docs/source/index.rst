@@ -33,7 +33,8 @@ A well structured and dedicated Team; for the good of all
 *********************************************************
 The SmolPlanets development team is a divers and competent team that has experience
 in putting great things into practice.
-With the core team mostly stationed in central europe
+With the core team mostly stationed in central Europe, we ensure maximum work ethics and qualitiy NFTs.
+
 
 
 
@@ -44,7 +45,7 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   
+
    index.rst
    project.rst
    tokenomics.rst

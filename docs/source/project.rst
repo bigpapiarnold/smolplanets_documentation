@@ -58,6 +58,12 @@ Minting Phase includes:
  - **MINTING**
  - setting public game date
 
+Game Phase 0.5
+==============
+
+
+Game Phase 1
+============
 
 
 
