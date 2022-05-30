@@ -58,12 +58,21 @@ Minting Phase includes:
  - **MINTING**
  - setting public game date
 
+
 Game Phase 0.5
 ==============
-
+Game Phase 0.5 includes:
+- Stacking Phase of 2-3 Weeks for final game development
+- Item Marketplace release
+- $Crystal Items Exchange start
+- Preparing game launch
 
 Game Phase 1
 ============
+- **Game launch**
+- Full marketplace
+- full token applications
+- **Preparing launch of 1/1 Collection**
 
 
 
