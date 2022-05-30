@@ -1,17 +1,16 @@
 Project
 #######
+**SmolPlanets**  is a community based project, made by and made
+for the smol-community members.
+The following describes details in development and project.
+ 
 .. contents:: Table of Contents
-
-
 
 
 
 
 Development Phases
 ==================
-
-
-
 .. sidebar:: Phases
 
    .. rubric::
@@ -76,10 +75,6 @@ Game Phase 1 includes:
  - Full marketplace
  - full token applications
  - **Preparing launch of 1/1 Collection**
-
-
-
-
 
 Roadmap
 =======
