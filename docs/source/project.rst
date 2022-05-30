@@ -60,8 +60,9 @@ Minting Phase includes:
 
 
 Game Phase 0.5
-==============
+--------------
 Game Phase 0.5 includes:
+
 .. hlist::
    :columns: 2
 
@@ -71,11 +72,10 @@ Game Phase 0.5 includes:
    * Preparing game launch
 
 
-
-
 Game Phase 1
-============
+------------
 Game Phase 1 includes:
+
 .. hlist::
    :columns: 2
 
