@@ -1,10 +1,10 @@
 Project
 #######
-
-SmolPlanets is an ambitious project thats led by competent and well known Crypto-fanatics.
-The development os structured in phases that describe pre and post mint development.
-
 .. contents:: Table of Contents
+
+
+
+
 
 
 Development Phases

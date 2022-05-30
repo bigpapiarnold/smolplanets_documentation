@@ -3,7 +3,7 @@ SmolPlanets Documentation Entry
 
 .. note::
 
-   This project and docs are under active development.
+   *This project and docs are under active development.*
 
 
 
