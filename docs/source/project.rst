@@ -64,6 +64,7 @@ Game Phase 0.5
 Game Phase 0.5 includes:
 .. hlist::
    :columns: 2
+   
    - Stacking Phase of 2-3 Weeks for final game development
    - Item Marketplace release
    - $Crystal Items Exchange start
@@ -77,6 +78,7 @@ Game Phase 1
 Game Phase 1 includes:
 .. hlist::
    :columns: 2
+
    - **Game launch**
    - Full marketplace
    - full token applications
