@@ -111,39 +111,39 @@ Backround
 
 Planets Texture
 ---------------
-.. figure:: static/05_BG_04_01R.png
+.. figure:: static/01_Bluegas_01_00F.png
    :alt: reStructuredText, the markup syntax
 
    A figure is an image with a caption and/or a legend:
 
 Torso
 -----
-.. figure:: static/05_BG_04_01R.png
+.. figure:: static/02_collar_05_00F.png
    :alt: reStructuredText, the markup syntax
 
    A figure is an image with a caption and/or a legend:
 
 Rings
 -----
-.. figure:: static/05_BG_04_01R.png
+.. figure:: static/04_stone_01_00F.png
    :alt: reStructuredText, the markup syntax
 
    A figure is an image with a caption and/or a legend:
 Moons
 -----
-.. figure:: static/05_BG_04_01R.png
+.. figure:: static/03_1moonbasic_01_00F.png
    :alt: reStructuredText, the markup syntax
 
    A figure is an image with a caption and/or a legend:
 Logo
 ----
-.. figure:: static/05_BG_04_01R.png
+.. figure:: static/07_LogoOnTorso_04_00F.png
    :alt: reStructuredText, the markup syntax
 
    A figure is an image with a caption and/or a legend:
 Chain
 -----
-.. figure:: static/05_BG_04_01R.png
+.. figure:: static/07_Necklace_01_00F.png
    :alt: reStructuredText, the markup syntax
 
    A figure is an image with a caption and/or a legend:
