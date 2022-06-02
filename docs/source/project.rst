@@ -3,7 +3,7 @@ Project
 **SmolPlanets**  is a community based project, made by and made
 for the smol-community members.
 The following describes details in development and project.
- 
+
 .. contents:: Table of Contents
 
 
@@ -85,3 +85,73 @@ Roadmap
 
 Founders Pass
 =============
+
+
+Attributes
+==========
+
+Every Planet is a combination of the 9 traits following:
+  - Backround
+  - Planet Texture
+  - Torso
+  - Rings
+  - Moons
+  - Logo
+  - Chain
+  - Specials
+  - Frame
+
+
+Backround
+---------
+.. figure:: static/05_BG_04_01R.png
+   :alt: reStructuredText, the markup syntax
+
+   A figure is an image with a caption and/or a legend:
+
+Planets Texture
+---------------
+.. figure:: static/05_BG_04_01R.png
+   :alt: reStructuredText, the markup syntax
+
+   A figure is an image with a caption and/or a legend:
+
+Torso
+-----
+.. figure:: static/05_BG_04_01R.png
+   :alt: reStructuredText, the markup syntax
+
+   A figure is an image with a caption and/or a legend:
+
+Rings
+-----
+.. figure:: static/05_BG_04_01R.png
+   :alt: reStructuredText, the markup syntax
+
+   A figure is an image with a caption and/or a legend:
+Moons
+-----
+.. figure:: static/05_BG_04_01R.png
+   :alt: reStructuredText, the markup syntax
+
+   A figure is an image with a caption and/or a legend:
+Logo
+----
+.. figure:: static/05_BG_04_01R.png
+   :alt: reStructuredText, the markup syntax
+
+   A figure is an image with a caption and/or a legend:
+Chain
+-----
+.. figure:: static/05_BG_04_01R.png
+   :alt: reStructuredText, the markup syntax
+
+   A figure is an image with a caption and/or a legend:
+Specials
+--------
+.. figure:: static/05_BG_04_01R.png
+   :alt: reStructuredText, the markup syntax
+
+   A figure is an image with a caption and/or a legend:
+Frame
+-----
