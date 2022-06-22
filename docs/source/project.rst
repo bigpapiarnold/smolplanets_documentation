@@ -106,52 +106,53 @@ Backround
 ---------
 .. figure:: static/05_BG_04_01R.png
    :alt: reStructuredText, the markup syntax
+   common Backround 
 
-   A figure is an image with a caption and/or a legend:
+There are 5 different Backround Assets. Each one with a different chance to get put in a NFT.
+
 
 Planets Texture
 ---------------
 .. figure:: static/01_Bluegas_01_00F.png
    :alt: reStructuredText, the markup syntax
-
-   A figure is an image with a caption and/or a legend:
+   Common blue gas planet
 
 Torso
 -----
 .. figure:: static/02_collar_05_00F.png
    :alt: reStructuredText, the markup syntax
-
-   A figure is an image with a caption and/or a legend:
+   common grey collar torso
 
 Rings
 -----
 .. figure:: static/04_stone_01_00F.png
    :alt: reStructuredText, the markup syntax
+   common stone rings
 
-   A figure is an image with a caption and/or a legend:
 Moons
 -----
 .. figure:: static/03_1moonbasic_01_00F.png
    :alt: reStructuredText, the markup syntax
-
-   A figure is an image with a caption and/or a legend:
+   common luna type moon
 Logo
 ----
 .. figure:: static/07_LogoOnTorso_04_00F.png
    :alt: reStructuredText, the markup syntax
-
-   A figure is an image with a caption and/or a legend:
+   rare logo on torso
 Chain
 -----
 .. figure:: static/07_Necklace_01_00F.png
    :alt: reStructuredText, the markup syntax
+   uncommon necklace
 
-   A figure is an image with a caption and/or a legend:
 Specials
 --------
 .. figure:: static/05_BG_04_01R.png
    :alt: reStructuredText, the markup syntax
+   very rare space station
 
-   A figure is an image with a caption and/or a legend:
 Frame
 -----
+.. figure:: static/05_BG_04_01R.png
+   :alt: reStructuredText, the markup syntax
+   frame, with coordinates on it
