@@ -1,3 +1,5 @@
+Frequently Asked Questions
+##########################
 What is the NFT Project about?
 The NFT project is a collection of unique, one-of-a-kind NFTs that offer a glimpse into an enigmatic world of celestial beings with human-like traits and personalities.
 
