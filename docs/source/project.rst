@@ -36,7 +36,7 @@ Pre Mint Phase 0.5 includes:
   - Website concept
 
 
-Pre Mint Phase 1 ✓
+Pre Mint Phase 1 
 ------------------
 Pre Mint Phase 1 includes:
   - Finalizing NFT Design
