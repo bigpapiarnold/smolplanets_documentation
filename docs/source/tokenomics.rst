@@ -14,6 +14,30 @@ Treasury Overview
 Liquidity Delegation
 ====================
 
+The "Smolplanets" NFT project aims to provide long-term success and sustainability while also delivering value to our holders. To achieve this goal, the project has established a liquidity delegation plan that outlines the allocation of the project's liquidity.
+
+Allocation of Liquidity:
+The liquidity delegation will be divided into the following areas:
+
+Project Running Costs: 50% of the delegation will be used to cover the day-to-day expenses of running the project, such as website hosting and maintenance, marketing, and other operational costs.
+
+Team Member Payouts: 20% of the delegation will be allocated to compensate the team members for their hard work and dedication to the project. This will help ensure that our talented team remains motivated and focused on delivering the best possible results.
+
+Development Costs: 20% of the delegation will be used to fund the ongoing development of the project, including the creation of new NFTs and the enhancement of the website and underlying technology.
+
+$Crystal Maintenance Costs: 5% of the delegation will be used to maintain the stability of the $Crystal token, ensuring that it remains accessible and valuable for everyone.
+
+Buyback of Items: 5% of the delegation will be used to buy back NFTs from the market, helping to maintain the scarcity and value of the Cosmic Secret Society collection.
+
+
+The "Smolplanets" NFT project's liquidity delegation plan has been designed to deliver long-term success and sustainability, while also providing value to our holders. We believe that this allocation of liquidity will help to achieve these goals and ensure the success of the project.
+
+
+
+
+
+
+
 Team Structure
 ==============
 
@@ -52,3 +76,11 @@ What is $Crystal
 ****************
 
 In this game, you will have the opportunity to build and develop your own planet, and to do that, you will need a special currency - "$Crystal". "$Crystal" is a cryptocurrency token that serves as the in-game currency. You can use "$Crystal" to purchase resources, construct buildings and structures, and upgrade your planet. As you progress in the game and develop your planet, you will be able to harvest more "$Crystal", allowing you to expand your empire and unlock new possibilities. So get ready to dive into the world of "$Crystal" and start building your very own planet today! 
+
+
+What are Items
+****************
+
+In the Smol Planets game, there are a variety of items that you can purchase with "$Crystal" to help you develop and expand your planet. For example, you can purchase special mining tools like drills to extract valuable resources, gas tanks to fuel your operations, or farming tools to cultivate crops. The better the tools you have, the more "$Crystal" you will be able to generate.
+
+By upgrading your tools and equipment, you will be able to increase your production and harvest more "$Crystal", allowing you to unlock new possibilities and advance further in the game. Whether you're looking to build a thriving mining operation, a flourishing farm, or a bustling city, the items you purchase with "$Crystal" will play a crucial role in your success. So be sure to invest wisely and keep an eye out for new tools and upgrades that can help take your planet to the next level.
