@@ -11,6 +11,22 @@ High-level overview of topic.
 Treasury Overview
 *****************
 
+Income
+======
+
+Sources of Income:
+The "Smolplanets" NFT project has several sources of income, including:
+
+Marketplace Royalties: The project will receive a portion of the fees generated from sales on the marketplace, helping to ensure a steady stream of income.
+
+Mint Income: The project will receive revenue from the minting of new NFTs, allowing for growth and expansion of the collection.
+
+$Crystal Fees: The project will receive fees for the use of the $Crystal token, providing a source of revenue for maintaining the token and supporting its stability.
+
+Item Sales: The project will receive revenue from the sale of NFTs in the Cosmic Secret Society collection, helping to drive growth and increase the value of the project.
+
+
+
 Liquidity Delegation
 ====================
 
@@ -56,15 +72,6 @@ The remaining 4 members of the team serve as moderators, helping to keep the com
 In conclusion, the "Smolplanets" NFT project has a well-rounded team with a clear structure, and everyone is working together to bring the Cosmic Secret Society to life. Each member plays a crucial role in the success of the project, and the team is dedicated to delivering a truly one-of-a-kind NFT collection that is both beautiful and meaningful.
 
 
-
-Treasury Changes
-================
-
-Income
-------
-
-Expenses
---------
 
 
 
