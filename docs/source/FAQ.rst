@@ -1,44 +1,23 @@
-Frequently Asked Questions
-##########################
+What is the NFT Project about?
+The NFT project is a collection of unique, one-of-a-kind NFTs that offer a glimpse into an enigmatic world of celestial beings with human-like traits and personalities.
 
-High-level overview of topic.
+How can I mint NFTs on the website?
+To mint NFTs on the website, you need to have a Metamask wallet and some $Magic cryptocurrency. The steps for minting NFTs on the website can be found in the step-by-step manual provided in the documentation.
 
-What is ?
-**********
+Is there a whitelist for minting NFTs on the website?
+Yes, there is a whitelist system in place for minting NFTs on the website. Whitelisted users are able to mint NFTs at a lower price compared to non-whitelisted users.
 
-High level conceptual information (Heading 2).
+What is the story behind the NFT collection?
+The NFT collection, called Cosmic Secret Society (CSS), is about celestial bodies that have evolved into beings with human-like traits and personalities. The story is based on the idea that a rare cosmic event caused some planets to develop these unique features and that their existence has been kept hidden until now.
 
-At a minimum, a concept includes the following components.
+What is $Crystal and how does it relate to the NFT Project?
+$Crystal is a cryptocurrency used in the NFT Project to pay for various expenses such as website hosting, development costs, and maintenance costs. It also serves as a source of income through fees collected from transactions.
 
-* A title, phrased as a gerund or question.
-* One or more body paragraphs.
+What is the team structure for the NFT Project?
+The NFT Project has a team of 10 members, with the core team consisting of 6 members responsible for administration, creation, development, and community management. The rest of the team consists of moderators.
 
-Complex concepts may contain 2 or more subsections.
+How is the income and expenses of the NFT Project managed?
+The income of the NFT Project comes from various sources such as marketplace royalties, mint income, $Crystal fees, and item sales. The expenses of the NFT Project include project running costs, team member payouts, development costs, website hosting costs, and $Crystal maintenance costs.
 
-What is <part of subject> ?
-============================
-
-When you need to break down a subject, you can break it down into subsections (H3s). Typically you would have 0 H3s, or 2+ H3s.
-
-
-What is <part of subject> ?
-============================
-
-When you need to break down a subject, you can break it down into subsections (H3s)
-
-Do this
-**********
-
-A task typically follows conceptual information. Task titles should be imperative. Tasks should have a short introduction sentence that captures the user's goal and introduces the steps, for example, "Verify your products are in the catalog:"
-
-A task should have 3 - 7 steps.  Tasks with more should be broken down into digestible chunks.
-
-Intro sentence.
-
-#. Step 1.
-
-#. Step 2.
-
-#. Step 3.
-
-Following the steps, you should add the result and any follow-up tasks needed.
+What is the buyback policy for NFT items in the collection?
+The buyback policy for NFT items in the collection is not specified in the documentation. It is advised to contact the team for more information on this matter.
