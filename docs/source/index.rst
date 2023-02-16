@@ -49,7 +49,5 @@ Contents
    index.rst
    project.rst
    tokenomics.rst
-   game.rst
-   lore.rst
    FAQ.rst
    HowToArbitrum.rst
