@@ -1,4 +1,4 @@
-SmolPlanets Documentation Entry
+CSS Documentation Entry
 ###############################
 
 .. note::
@@ -9,7 +9,7 @@ SmolPlanets Documentation Entry
 
 Introduction
 ************
-**SmolPlanets** is a play-to-earn *colony simulator*, built by physics students,
+**Cosmic Secret Society** is a play-to-earn *colony simulator*, built by physics students,
 crypto nerds and astronomy enthusiasts. The Art combined with lore and the game create an
 immersive experience for all holders. Additionally constant development ensures the
 value of the project and a great community.
@@ -19,7 +19,7 @@ a decentrelized marketplace.
 
 
 
-Motivation behind SmolPlanets
+Motivation behind Cosmic Secret Society
 *****************************
 We (the founders) are physics students and astronomy enthusiasts.
 The project shares our experience of exploring strange new worlds and meeting new civilisations,
@@ -31,7 +31,7 @@ on Arbitrum, where the smols can meet and play together.
 
 A well structured and dedicated Team; for the good of all
 *********************************************************
-The SmolPlanets development team is a divers and competent team that has experience
+The CSS development team is a divers and competent team that has experience
 in putting great things into practice.
 With the core team mostly stationed in central Europe, we ensure maximum work ethics and qualitiy NFTs.
 
