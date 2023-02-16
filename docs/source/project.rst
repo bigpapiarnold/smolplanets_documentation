@@ -1,6 +1,6 @@
 Project
 #######
-**SmolPlanets**  is a community based project, made by and made
+**Cosmic Secret Society**  is a community based project, made by and made
 for the smol-community members.
 The following describes details in development and project.
 
@@ -15,7 +15,7 @@ Development Phases
 
    .. rubric::
 
-   Development of SmolPlanets is structured in Phases to
+   Development of CSS is structured in Phases to
    increase effiency and and value of the project.
    Additionally it is split up into departments that work
    mostly independent.
