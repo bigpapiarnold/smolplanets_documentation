@@ -76,16 +76,6 @@ Game Phase 1 includes:
  - full token applications
  - **Preparing launch of 1/1 Collection**
 
-Roadmap
-=======
-
-
-
-
-
-Founders Pass
-=============
-
 
 Attributes
 ==========
