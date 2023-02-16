@@ -15,7 +15,7 @@ Income
 ======
 
 Sources of Income:
-The "Smolplanets" NFT project has several sources of income, including:
+The Cosmic Secret Society NFT project has several sources of income, including:
 
 Marketplace Royalties: The project will receive a portion of the fees generated from sales on the marketplace, helping to ensure a steady stream of income.
 
@@ -30,7 +30,7 @@ Item Sales: The project will receive revenue from the sale of NFTs in the Cosmic
 Liquidity Delegation
 ====================
 
-The "Smolplanets" NFT project aims to provide long-term success and sustainability while also delivering value to our holders. To achieve this goal, the project has established a liquidity delegation plan that outlines the allocation of the project's liquidity.
+The Cosmic Secret Society NFT project aims to provide long-term success and sustainability while also delivering value to our holders. To achieve this goal, the project has established a liquidity delegation plan that outlines the allocation of the project's liquidity.
 
 Allocation of Liquidity:
 The liquidity delegation will be divided into the following areas:
@@ -46,8 +46,7 @@ $Crystal Maintenance Costs: 5% of the delegation will be used to maintain the st
 Buyback of Items: 5% of the delegation will be used to buy back NFTs from the market, helping to maintain the scarcity and value of the Cosmic Secret Society collection.
 
 
-The "Smolplanets" NFT project's liquidity delegation plan has been designed to deliver long-term success and sustainability, while also providing value to our holders. We believe that this allocation of liquidity will help to achieve these goals and ensure the success of the project.
-
+The Cosmic Secret Society NFT project's liquidity delegation plan has been designed to deliver long-term success and sustainability, while also providing value to our holders. We believe that this allocation of liquidity will help to achieve these goals and ensure the success of the project.
 
 
 
@@ -57,7 +56,7 @@ The "Smolplanets" NFT project's liquidity delegation plan has been designed to d
 Team Structure
 ==============
 
-The "Smolplanets" NFT project has a strong and dedicated team of 10 members, with 6 core members leading the way. The team is made up of experienced professionals who bring a wide range of skills and expertise to the project.
+The Secret Space Society NFT project has a strong and dedicated team of 10 members, with 6 core members leading the way. The team is made up of experienced professionals who bring a wide range of skills and expertise to the project.
 
 @chonkers and @kalla serve as the Admins and CEOs, overseeing the overall direction and strategy of the project. They ensure that the project is aligned with its goals and that the team is working together effectively to achieve them.
 
@@ -69,7 +68,7 @@ The "Smolplanets" NFT project has a strong and dedicated team of 10 members, wit
 
 The remaining 4 members of the team serve as moderators, helping to keep the community organized and running smoothly. They are responsible for answering questions, addressing concerns, and ensuring that everyone has a positive experience with the project.
 
-In conclusion, the "Smolplanets" NFT project has a well-rounded team with a clear structure, and everyone is working together to bring the Cosmic Secret Society to life. Each member plays a crucial role in the success of the project, and the team is dedicated to delivering a truly one-of-a-kind NFT collection that is both beautiful and meaningful.
+In conclusion, the Cosmic Secret Society NFT project has a well-rounded team with a clear structure, and everyone is working together to bring the Cosmic Secret Society to life. Each member plays a crucial role in the success of the project, and the team is dedicated to delivering a truly one-of-a-kind NFT collection that is both beautiful and meaningful.
 
 
 
@@ -88,6 +87,6 @@ In this game, you will have the opportunity to build and develop your own planet
 What are Items
 ****************
 
-In the Smol Planets game, there are a variety of items that you can purchase with "$Crystal" to help you develop and expand your planet. For example, you can purchase special mining tools like drills to extract valuable resources, gas tanks to fuel your operations, or farming tools to cultivate crops. The better the tools you have, the more "$Crystal" you will be able to generate.
+In the Cosmic Secret Society game, there are a variety of items that you can purchase with "$Crystal" to help you develop and expand your planet. For example, you can purchase special mining tools like drills to extract valuable resources, gas tanks to fuel your operations, or farming tools to cultivate crops. The better the tools you have, the more "$Crystal" you will be able to generate.
 
 By upgrading your tools and equipment, you will be able to increase your production and harvest more "$Crystal", allowing you to unlock new possibilities and advance further in the game. Whether you're looking to build a thriving mining operation, a flourishing farm, or a bustling city, the items you purchase with "$Crystal" will play a crucial role in your success. So be sure to invest wisely and keep an eye out for new tools and upgrades that can help take your planet to the next level.
